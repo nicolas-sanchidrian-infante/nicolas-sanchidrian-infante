@@ -1,6 +1,6 @@
 [![ES](https://img.shields.io/badge/ES-Spanish-red)](README_es.md)
 
-# 👋 Hi, I'm Nicolás Sanchidrián
+# 👋 Hi, I'm Nico
 
 Computer Engineering student passionate about software development, cybersecurity, and teamwork. I love learning new technologies and applying my knowledge in practical projects.
 
